@@ -1,2 +1,2 @@
 # GooglePlayStore-Analysis
-This project dives deep into how apps are today positioned in Google Play Store and gives insights to a developer on what parameters need to be considered before developing.
+In the cutthroat competition between the app development companies, understanding the customer need and market demand is a crucial part before developing any mobile app.This project dives deep into how existing apps are today positioned in Google Play Store and gives insights to a developer on what parameters need to be considered before developing an app or game. This project can help developer identify their target audience and how can they position their app or game based on the data of existing 
